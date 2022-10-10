@@ -1,4 +1,5 @@
-# This games has the user guess a point in a rectangle by typing in some coordinates
+# This games has the user guess a point in a rectangle by 
+# typing in some coordinates
 
 '''
 Development plan:
