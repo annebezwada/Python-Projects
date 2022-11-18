@@ -1,0 +1,25 @@
+Date: 11/09/2022
+Title: Math Painter
+
+Descrption: An app that lets the user provide the 
+squares and rectangles, their deimnesions, and their col
+the geometrical shapes drawn in it. 
+
+Objects: Square:
+            x
+            y
+            side
+            color
+            draw(canvas)
+         Rectange:
+            x
+            y
+            width
+            height
+            color
+            draw(canvas)
+         Canvas:
+            width
+            height
+            color
+            make(imagepath)
