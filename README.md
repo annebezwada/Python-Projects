@@ -4,3 +4,4 @@
 
 ## October Project: Flatmate Bill Project
 ## November Project: Math Painter
+## July - August Project: Card Game
