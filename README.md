@@ -5,5 +5,5 @@
 ## October Project: Flatmate Bill Project
 ## November Project: Math Painter
 ## July - August Project: Card Game
-##### Card game <a href="https://github.com/annebezwada/Python-Projects/blob/main/cardgame.py"> </a>
+##### <a href="https://github.com/annebezwada/Python-Projects/blob/main/cardgame.py"> Card game </a>
 
